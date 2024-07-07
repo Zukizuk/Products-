@@ -1,370 +1,361 @@
 [
-    {
-      "id": "",
-      "name": "",
-      "description": "CK Bespoke Slippers ",
-      "images": [
-        {
-          "id": "",
-          "url": "",
-          "name": ""
-        }
-      ],
-      "category": "Footwear",
-      "subcategory": "Slippers",
-      "price": "350c",
-      "inventory": 100,
-      "rating": 19
-    },
-
-    {
-        "id": "",
-        "name": "CK Royal Slippers",
-        "description": "Treat your feet to the ultimate comfort with our CK Royal slippers",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Footwear",
-        "subcategory": "CK Royal Slippers",
-        "price": "450c",
-        "inventory": 100,
-        "rating": 19
-      },
-
+  {
+    "id": "",
+    "name": "Ck Slippers",
+    "description": "CK Bespoke Slippers ",
+    "images": [
       {
         "id": "",
-        "name": "Custom Green",
-        "description": "Step into comfort with our premium green leather slippers",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Footwear",
-        "subcategory": "CK Royal Slippers",
-        "price": "450c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "CK Loafers",
-        "description": "Our loafers combine elegance and comfort effortlessly!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Footwear",
-        "subcategory": "CK Loafers",
-        "price": "600c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "Lace Lapel Shirt",
-        "description": "Turn heads with our elegant lapel shirts, crafted for a sleek look!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Lapel Shirts",
-        "price": "450c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "White Lapel Shirt",
-        "description": "Comfort meets sophistication in our collection of lapel shirts!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Lapel Shirts",
-        "price": "450c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "Cream Lapel Shirt",
-        "description": "Make a statement with our stylish lapel shirts, designed for the modern gentleman!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Lapel Shirts",
-        "price": "450c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      
-      {
-        "id": "",
-        "name": "Ribbed Blue Lapel Shirt",
-        "description": "Experience the perfect blend of style and comfort with our lapel shirts!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Lapel Shirts",
-        "price": "450c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "Bespoke Kaftan",
-        "description": "Stylish and comfortable kaftans made just for you!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Kaftans",
-        "price": "850c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "Custom Ash Kaftan",
-        "description": "Embrace tradition with our modern and stylish kaftans!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Kaftans",
-        "price": "850c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "Bespoke Kaftan",
-        "description": "Make a cultural statement with our beautifully designed kaftans!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Kaftans",
-        "price": "850c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "Bespoke Agbada",
-        "description": "Make a grand entrance with our elegantly designed Agbada!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Agbada",
-        "price": "1000c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "CK Regular Loose Pants",
-        "description": "Discover the ultimate in comfort and style with our collection of pants!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Pants",
-        "price": "350",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      
-      {
-        "id": "",
-        "name": "CK Custom Fit Pants",
-        "description": "Elevate your everyday look with our premium quality pants!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Pants",
-        "price": "350",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "CK Black Regular",
-        "description": "Perfectly tailored pants for any occasion!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Pants",
-        "price": "350", 
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "CK Custom Two Piece",
-        "description": "Step out in confidence with our stylish custom two-piece outfits!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Clothing",
-        "subcategory": "Two Piece Fits",
-        "price": "850c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      
-      {
-        "id": "",
-        "name": "CK Slim Fit Suit",
-        "description": "Stylish and comfortable suits made just for you!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Suits",
-        "subcategory": "Slim Fit Suits",
-        "price": "850c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-
-      {
-        "id": "",
-        "name": "CK Double Breasted Suit",
-        "description": "Double-breasted suits for a distinguished look!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Suits",
-        "subcategory": "Double Breasted",
-        "price": "850c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      
-      {
-        "id": "",
-        "name": "CK Custom Made Suit",
-        "description": "Stylish and elegant suits that command attention!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Suits",
-        "subcategory": "CK Custom Made Suits",
-        "price": "850c",
-        "inventory": 100,
-        "rating": 19
-      },
-
-      {
-        "id": "",
-        "name": "CK Elegant Gown",
-        "description": "Exquisite gowns for your most memorable moments!",
-        "images": [
-          {
-            "id": "",
-            "url": "",
-            "name": ""
-          }
-        ],
-        "category": "Gowns",
-        "subcategory": "Elegant Gowns",
-        "price": "850c",
-        "inventory": 100,
-        "rating": 19
+        "url": "",
+        "name": ""
       }
+    ],
+    "category": "Footwear",
+    "subcategory": "Slippers",
+    "price": "350c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Royal Slippers",
+    "description": "Treat your feet to the ultimate comfort with our CK Royal slippers",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Footwear",
+    "subcategory": "CK Royal Slippers",
+    "price": "450c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "Custom Green",
+    "description": "Step into comfort with our premium green leather slippers",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Footwear",
+    "subcategory": "CK Royal Slippers",
+    "price": "450c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Loafers",
+    "description": "Our loafers combine elegance and comfort effortlessly!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Footwear",
+    "subcategory": "CK Loafers",
+    "price": "600c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "Lace Lapel Shirt",
+    "description": "Turn heads with our elegant lapel shirts, crafted for a sleek look!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Lapel Shirts",
+    "price": "450c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "White Lapel Shirt",
+    "description": "Comfort meets sophistication in our collection of lapel shirts!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Lapel Shirts",
+    "price": "450c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "Cream Lapel Shirt",
+    "description": "Make a statement with our stylish lapel shirts, designed for the modern gentleman!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Lapel Shirts",
+    "price": "450c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "Ribbed Blue Lapel Shirt",
+    "description": "Experience the perfect blend of style and comfort with our lapel shirts!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Lapel Shirts",
+    "price": "450c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "Bespoke Kaftan",
+    "description": "Stylish and comfortable kaftans made just for you!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Kaftans",
+    "price": "850c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "Custom Ash Kaftan",
+    "description": "Embrace tradition with our modern and stylish kaftans!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Kaftans",
+    "price": "850c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "Bespoke Kaftan",
+    "description": "Make a cultural statement with our beautifully designed kaftans!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Kaftans",
+    "price": "850c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "Bespoke Agbada",
+    "description": "Make a grand entrance with our elegantly designed Agbada!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Agbada",
+    "price": "1000c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Regular Loose Pants",
+    "description": "Discover the ultimate in comfort and style with our collection of pants!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Pants",
+    "price": "350",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Custom Fit Pants",
+    "description": "Elevate your everyday look with our premium quality pants!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Pants",
+    "price": "350",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Black Regular",
+    "description": "Perfectly tailored pants for any occasion!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Pants",
+    "price": "350",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Custom Two Piece",
+    "description": "Step out in confidence with our stylish custom two-piece outfits!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Clothing",
+    "subcategory": "Two Piece Fits",
+    "price": "850c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Slim Fit Suit",
+    "description": "Stylish and comfortable suits made just for you!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Suits",
+    "subcategory": "Slim Fit Suits",
+    "price": "850c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Double Breasted Suit",
+    "description": "Double-breasted suits for a distinguished look!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Suits",
+    "subcategory": "Double Breasted",
+    "price": "850c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Custom Made Suit",
+    "description": "Stylish and elegant suits that command attention!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Suits",
+    "subcategory": "CK Custom Made Suits",
+    "price": "850c",
+    "inventory": 100,
+    "rating": 19
+  },
+
+  {
+    "id": "",
+    "name": "CK Elegant Gown",
+    "description": "Exquisite gowns for your most memorable moments!",
+    "images": [
+      {
+        "id": "",
+        "url": "",
+        "name": ""
+      }
+    ],
+    "category": "Gowns",
+    "subcategory": "Elegant Gowns",
+    "price": "850c",
+    "inventory": 100,
+    "rating": 19
+  }
 ]
-      
-
-
-  
